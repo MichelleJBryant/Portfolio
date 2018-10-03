@@ -52,3 +52,6 @@ Trello was used to breakdown the tasks for the project and to assign what priori
 
 
 ### Screenshots of Trello board
+
+<img width="1178" alt="screen shot 2018-10-03 at 12 25 21 pm" src="https://user-images.githubusercontent.com/42559562/46400062-d0368800-c73c-11e8-99a3-a1c5fea2aa1f.png">
+
