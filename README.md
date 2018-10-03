@@ -27,6 +27,9 @@ The portfolio is written in HTML5, CSS, and some Javascript.
 ### Design Process
 In creating the design for the portfolio, a mood board was created to capture the style colour scheme that would best reflect my professional personality. Although I wanted to showcase my developing skills, I wanted to create my own proffesional mould of where coding and  development can be colourful, creative and glamorous. 
 
+![moodboard](https://user-images.githubusercontent.com/42559562/46400317-75e9f700-c73d-11e8-8000-dc8d25e85a9a.png)
+
+
 As seen on the mood board, there was a recurring them of pink, fashion and glamour. This was an unintentional design process where I selected images from pinterest that captured my interest with the resulting images summariseing my style. 
 
 
