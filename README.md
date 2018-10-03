@@ -11,10 +11,32 @@ This Portfolio is a foundational platform for future developments of my personal
 The current iteration of the Portfolio website is designed to be a brief example of current projects, aspirations for future projects, and to provide a breif history of my work and study experience. 
 
 ### Sitemap
+<img width="744" alt="portfolio site map" src="https://user-images.githubusercontent.com/42559562/46444895-6c9d7080-c7b7-11e8-9e51-4bd8a662409b.png">
 
 ### Screenshots
 
+## Home Page
+<img width="1363" alt="screen shot 2018-10-04 at 9 29 07 am" src="https://user-images.githubusercontent.com/42559562/46445012-fbaa8880-c7b7-11e8-80a3-4721fc1c9dbb.png">
 
+
+## Logo Page
+<img width="1095" alt="screen shot 2018-10-03 at 5 49 33 pm" src="https://user-images.githubusercontent.com/42559562/46445065-40362400-c7b8-11e8-8fd0-b285e16f5c76.png">
+
+
+## About Me
+<img width="1091" alt="screen shot 2018-10-03 at 5 49 47 pm" src="https://user-images.githubusercontent.com/42559562/46445033-1846c080-c7b8-11e8-866d-15cb6b93fb0f.png">
+
+## My Portfolio
+
+<img width="1080" alt="screen shot 2018-10-03 at 5 49 55 pm" src="https://user-images.githubusercontent.com/42559562/46445084-69ef4b00-c7b8-11e8-896e-fbffa10d3b8b.png">
+
+## Contact Me
+
+<img width="1088" alt="screen shot 2018-10-03 at 5 50 01 pm" src="https://user-images.githubusercontent.com/42559562/46445088-6bb90e80-c7b8-11e8-8081-b6abe834b9f4.png">
+
+<img width="1085" alt="screen shot 2018-10-03 at 5 50 18 pm" src="https://user-images.githubusercontent.com/42559562/46445089-6d82d200-c7b8-11e8-9b51-2c5c81a6549c.png">
+
+<img width="1077" alt="screen shot 2018-10-03 at 5 50 35 pm" src="https://user-images.githubusercontent.com/42559562/46445097-78d5fd80-c7b8-11e8-87f4-532568bf66d4.png">
 
 ### Target Audience
 This portoflio is designed to eye catching and engaging to the target audience of potential employers as well as members of the education community. 
@@ -35,6 +57,8 @@ As seen on the mood board, there was a recurring them of pink, fashion and glamo
 
 ### Personal Logo
 My logo was a design to relfect my personality. As stated by my sister, the straight typography of the 'M' reflects my professional personality, where it is disciplined and refined. Whereas the typography of the 'B' shows chaotic colour which reflects my creativing thinking, aspirations and passion. 
+
+<img width="1095" alt="screen shot 2018-10-03 at 5 49 33 pm" src="https://user-images.githubusercontent.com/42559562/46444907-82ab3100-c7b7-11e8-8ae3-13b48446c0a7.png">
 
 
 ### Usability Considerations
