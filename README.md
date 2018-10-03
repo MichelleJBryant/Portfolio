@@ -58,3 +58,41 @@ Trello was used to breakdown the tasks for the project and to assign what priori
 
 <img width="1178" alt="screen shot 2018-10-03 at 12 25 21 pm" src="https://user-images.githubusercontent.com/42559562/46400062-d0368800-c73c-11e8-99a3-a1c5fea2aa1f.png">
 
+## Short answer Q&A
+### Describe key events in the development of the internet from the 1980s to today (max. 150 words)
+
+The research of wide area networking and the possibility of more effective communication systems was being investigated for military use in the early 1950's. 
+
+This foundational research lead the way for Computer Scientist, Tim Berners-Lee at CERN from Switzerland to develop the basis of the World Wide Web that is used today. The World Wide Web at this stage of development saw hypertext documents being put into an information system that was accessible from any node on the network. 
+
+This development then sparked the call for Internet Service Providers, such as PSINET, UUNET, netcom to utilise this research to provide basic email and news to the public. 
+
+Tim Berners-Lee continued his research and was able to develop the first web server and web browser in 1990, called WorldWideWeb. 
+
+From there, the internet has transcended a simple network system and has morphed into a integrated part of society. 
+This has been attributed to many aspects. This includes the development of engaging web frameworks such as Javascript and Java, AJAX and HTML 4 (and its emphasis on CSS). As well as Australis very own CSIRO’s invention of accessible wireless internet which has also greatly contributed to the immersive mobile web culture that we now engage with today. 
+
+
+### Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
+
+Utilising HTTP (Hypertext Transfer Protocol), and based on a client/server model, a web-server will store, process and deliver web pages to clients for viewing. 
+HTTP also includes, HTML documents, images, style sheets and scripts as well as text content. A web-server will work with the clients/users web browser to then render the content as coded. 
+A Web browser is an application that reads and renders HTML files and outputs the view to the user. Safari, Google Chrome and Moxilla Firefox are examples of web browsers.
+
+Domain Name Servers are a directory that contains the domain names of websites and connects them to IP addresses, so that they can be reachable through browsers.
+A Domain is the location of a website, which utilises both a domain name, such as Github which then directs it to an IP address.
+
+
+### Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
+
+Internet technologies has had a profound effect on our current culture. It has successfully integrated into many spheres of culture such as education, technology, finance and most importantly, the psychosocial domain of human development. 
+What is perhaps the most debated issue with the development of internet technologies is the use of social media and its effects on how we view and engage with ourselves and others. 
+Although the internet has helped to create larger communities of like minded people, it also has been used to perpetuate negative behaviours and beliefs in people. 
+
+For example, there is increasing research into how social media and the internet effects the development process of young children and teenagers, with mixed results. Even though it helps teenagers to develop and express their identities , as well as provide them peer support, it also has shown to remove the consequences of their interactions with others, which is detrimental due to their propensity for peer acceptance and risk taking behaviour. Social media and the development of the internet is good, just ethical education of its use has to be provided to the future generations.
+
+
+
+
+
+
