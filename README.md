@@ -30,13 +30,14 @@ The current iteration of the Portfolio website is designed to be a brief example
 
 <img width="1080" alt="screen shot 2018-10-03 at 5 49 55 pm" src="https://user-images.githubusercontent.com/42559562/46445084-69ef4b00-c7b8-11e8-896e-fbffa10d3b8b.png">
 
-## Contact Me
-
 <img width="1088" alt="screen shot 2018-10-03 at 5 50 01 pm" src="https://user-images.githubusercontent.com/42559562/46445088-6bb90e80-c7b8-11e8-8081-b6abe834b9f4.png">
 
 <img width="1085" alt="screen shot 2018-10-03 at 5 50 18 pm" src="https://user-images.githubusercontent.com/42559562/46445089-6d82d200-c7b8-11e8-9b51-2c5c81a6549c.png">
 
+## Contact Me
+
 <img width="1077" alt="screen shot 2018-10-03 at 5 50 35 pm" src="https://user-images.githubusercontent.com/42559562/46445097-78d5fd80-c7b8-11e8-87f4-532568bf66d4.png">
+
 
 ### Target Audience
 This portoflio is designed to eye catching and engaging to the target audience of potential employers as well as members of the education community. 
@@ -58,15 +59,12 @@ As seen on the mood board, there was a recurring them of pink, fashion and glamo
 ### Personal Logo
 My logo was a design to relfect my personality. As stated by my sister, the straight typography of the 'M' reflects my professional personality, where it is disciplined and refined. Whereas the typography of the 'B' shows chaotic colour which reflects my creativing thinking, aspirations and passion. 
 
-<img width="1095" alt="screen shot 2018-10-03 at 5 49 33 pm" src="https://user-images.githubusercontent.com/42559562/46444907-82ab3100-c7b7-11e8-8ae3-13b48446c0a7.png">
-
+![logo](https://user-images.githubusercontent.com/42559562/46445471-64930000-c7ba-11e8-8d2c-601c36ea2bfe.png)
 
 ### Usability Considerations
 Due to limitations in the design and time process, usability considerations are limited. A current concern for usuabiltiy is the choice of the secondary font colour, a hue of pink. As pink can be difficult for people to see if they are colourblind, this will effect how they view and receive information from the site. As an alternative, future developments of the portfolio can have a function where more nuetral colours are used to increase accessiblity. 
 
 ## Details of planning process
-
-
 
 
 ### Project plan and timeline
